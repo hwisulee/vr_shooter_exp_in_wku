@@ -15,7 +15,6 @@
 /MentalCare_CNU/[Bb]uild/
 /MentalCare_CNU/[Bb]uilds/
 /MentalCare_CNU/[Oo]bj/
-/Assets/Oculus/LipSync/Plugins/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -153,3 +152,4 @@ crashlytics-build.properties
 *.CopyComplete
 *.pref
 *.pref
+*.lib
