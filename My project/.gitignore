@@ -153,3 +153,4 @@ crashlytics-build.properties
 *.pref
 *.pref
 *.lib
+*.dylib
