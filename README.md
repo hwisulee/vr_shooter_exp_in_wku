@@ -7,26 +7,34 @@
 설명 : VR을 사용해 가상 환경 속 간단한 조작법을 통해 WKU의 부지 체험</br>
 개발 인원 : 1명</br>
 맡은 역할 : 프로그램 구현</br>
-개발 기간 : '22.04.18 ~ 개발중</br>
+개발 기간 : '22.04.18 ~ '22.06.07</br>
 개발 언어 : C#</br>
-개발 환경 : Windows 10 pro, Unity 2020.3.2f1
+개발 환경 : Windows 10 pro, Unity 2020.3.4f1
 </code>
 </pre>
 
+[Demo Download](https://drive.google.com/file/d/1liamtoWecBMCMfNqWppNIDhtfv_1sumR/view?usp=sharing)
+
 ## Table of Contents
 1. [Preview](#preview)
-2. [Library](#library)
+2. [Assets](#assets)
 3. [License](#license)
 
 <h2 id="preview">Preview</h2>
 
-not ready yet
+1. 게임 프로토타입
 
-<h2 id="library">Library</h2>
+![캡처](https://user-images.githubusercontent.com/62528282/172429229-b94e1fe0-3d23-49d8-afa4-544c7697ec02.PNG)
+
+<h2 id="assets">Assets</h2>
 
 >Asset has this Licenses
 
-not ready yet
+1. [Oculus Integration](https://assetstore.unity.com/packages/tools/integration/oculus-integration-82022)
+2. [VR Interaction Framework](https://assetstore.unity.com/packages/templates/systems/vr-interaction-framework-161066)
+3. [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+4. [Low Ploy Shooter Pack - Free Sample](https://assetstore.unity.com/packages/templates/systems/low-poly-shooter-pack-free-sample-144839)
+5. [Wooden PBR Table](https://assetstore.unity.com/packages/3d/props/wooden-pbr-table-112005)
 
 <h2 id="license">License</h2>
 

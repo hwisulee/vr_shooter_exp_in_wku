@@ -15,6 +15,24 @@
 /MentalCare_CNU/[Bb]uild/
 /MentalCare_CNU/[Bb]uilds/
 /MentalCare_CNU/[Oo]bj/
+/[Aa]ssets/bgm/
+/[Aa]ssets/01_AssetStore/
+/[Aa]ssets/BNG Framework/
+/[Aa]ssets/Fantasy Skybox FREE/
+/[Aa]ssets/Infima Games/
+/[Aa]ssets/Oculus/
+/[Aa]ssets/LevelDesign/
+/[Aa]ssets/Materials/
+/[Aa]ssets/Plugins/
+/[Aa]ssets/Prefabs/
+/[Aa]ssets/Resources/
+/[Aa]ssets/Scenes/
+/[Aa]ssets/TextMesh Pro/
+/[Aa]ssets/UI Toolkit/
+/[Aa]ssets/VRUI - Material Design/
+/[Aa]ssets/PBR Table/
+/[Aa]ssets/Razeware/
+/[Aa]ssets/XR/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
@@ -154,3 +172,10 @@ crashlytics-build.properties
 *.pref
 *.lib
 *.dylib
+*.spp
+*.png
+*.jpg
+*.hdr
+*.max
+*.fbx
+*.DXF
